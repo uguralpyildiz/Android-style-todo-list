@@ -210,7 +210,7 @@
             const dateNote = document.querySelector(".date");
 
 
-           //date
+          
             const today = new Date();
             const monthName = today.toString().split(' ')[1]
             let mont = today.getMonth() + 1;
